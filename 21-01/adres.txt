@@ -1,0 +1,8 @@
+http://www.ffonts.net/ChopinScript.font
+
+
+http://registry.gimp.net/node/16563
+
+mig-gimp-layer-groups.scm
+
+LayerGroups subsystem for Gimp
